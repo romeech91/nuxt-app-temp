@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "romeech91/nuxt-app-temp",
+  "pipelineDirectory": "nuxt-app-temp",
+  "workspaceDirectory": "nuxt-app-temp\\nuxt-app-temp",
+  "repositories": {
+    "romeech91/nuxt-app-temp": {
+      "repositoryPath": "nuxt-app-temp\\nuxt-app-temp",
+      "lastRunOn": "03/01/2025 19:06:30 +03:00"
+    }
+  },
+  "lastRunOn": "03/01/2025 19:07:04 +03:00"
+}
